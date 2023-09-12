@@ -16,12 +16,8 @@ MyTinySTL
   * VScode
 
 ## 参考连接
-  见 [GigHub](https://github.com/Alinshans/MyTinySTL).
-
-## 文档
-  见 [Wiki](https://github.com/Alinshans/MyTinySTL/wiki)。
-
-## 测试
-  见 [Test](https://github.com/Alinshans/MyTinySTL/tree/master/Test)。
+  见 [GitHub](https://github.com/Alinshans/MyTinySTL).
+  见 [GitHub](https://github.com/Alinshans/MyTinySTL/wiki)。
+  见 [GitHub](https://github.com/Alinshans/MyTinySTL/tree/master/Test)。
 
 ---
