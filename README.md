@@ -92,6 +92,9 @@ $ cd ../bin && ./stltest
 1. git clone or [Download ZIP](https://github.com/Alinshans/MyTinySTL/archive/master.zip)
 2. use `vs2015`(or `vs2017`) open the file `MSVC/MyTinySTL_VS2015.sln`, configured in `Release`, run this project(Ctrl + F5).
 
+## 参考连接
+See [GigHub](https://github.com/Alinshans/MyTinySTL).
+
 ## Documents
 
 See [Wiki](https://github.com/Alinshans/MyTinySTL/wiki).
